@@ -7,19 +7,27 @@ This is a simple 3D top down shooter game prototype.
 - **Liam Roche** - Game Design/Programming - Github: @0Rexus
 
 ## Setup Instructions
+1. Download SimpleShooter folder
+2. Download SimpleShooterScene in the assets folder
+3. Open the project and import the scene
 
 ## Technologies Used
 - C#
 - Unity 6.2
 
 ## Project Structure
+- SimpleShooter folder is the unity project folder
+- Assets has the scene package
 
 ## How to Contribute
+- Use the project board to keep track of issues
+- Use branches to cover each feature
+- Make descriptive pull requests
 
 ## Current Status
-- Shooting [IN PROGRESS]
-- Player rotation [DONE]
-- Player movement [DONE]
+- Shooting [DONE]
+- Player Rotation [DONE]
+- Player Movement [DONE]
 
 ## License
 MIT License
